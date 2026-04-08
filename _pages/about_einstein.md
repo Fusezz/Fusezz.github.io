@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+This is the team I started my journey with during my internship at Phoenix Navtech. It’s been well over a year now, and I’m still working alongside them today. What began as a short introduction to engineering quickly turned into a hands-on experience where I’ve been able to grow, learn, and contribute in meaningful ways.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Each person here brought different skills and knowledge that pushed me to improve. Being part of this team has played a major role in shaping my future. From earning my GROL license alongside them to staying late troubleshooting Instrument Landing Systems, these experiences have defined how I approach engineering and problem solving.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This group wasn’t just a step in my journey, it was a necessary one. It helped build the foundation for my goal of becoming a world-class engineer and contributing to technology that pushes humanity forward.
