@@ -460,6 +460,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/luke-smith-687ab73a8", "_blank");
         },
       },{
+        id: 'social-facebook',
+        title: 'Facebook',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://facebook.com/61584642995688", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
