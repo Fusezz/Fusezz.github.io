@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "important people",
+        },{id: "nav-mentors",
+          title: "Mentors",
+          description: "The people who have helped guide my journey",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
