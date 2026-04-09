@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Asuka Bot
-description: with background image
+description: My Personal AI Assistant 
 img: assets/cherry.jpg
 importance: 1
 category: work
