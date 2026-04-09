@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: important people
+title: Mentors
+description: The people who have helped guide my journey
 nav: true
 nav_order: 7
 
@@ -16,6 +16,14 @@ profiles:
     more_info: >
       <p>Phoenix Navtech Interns Class 01 </p>
       <p>Starcraft Headquarters, FL</p>
+
+       - align: right
+       image: SCH.png
+       content: about_einstein.md
+       image_circular: false # crops the image to make it circular
+       more_info: >
+         <p>Phoenix Navtech Interns Class 01 </p>
+        <p>Starcraft Headquarters, FL</p>
 ---
 
 TESTING!!!!!!!!!
