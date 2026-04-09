@@ -16,14 +16,13 @@ profiles:
     more_info: >
       <p>Phoenix Navtech Interns Class 01 </p>
       <p>Starcraft Headquarters, FL</p>
-
-       - align: right
-       image: SCH.png
-       content: about_einstein.md
-       image_circular: false # crops the image to make it circular
-       more_info: >
-         <p>Phoenix Navtech Interns Class 01 </p>
-        <p>Starcraft Headquarters, FL</p>
+    - align: left
+    image: SCH.png
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Phoenix Navtech Interns Class 01 </p>
+      <p>Starcraft Headquarters, FL</p>
 ---
 
 TESTING!!!!!!!!!
