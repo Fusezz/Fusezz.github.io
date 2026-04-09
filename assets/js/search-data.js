@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-asuka-bot",
           title: 'Asuka Bot',
-          description: "with background image",
+          description: "My Personal AI Assistant",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "teachings-data-science-fundamentals",
