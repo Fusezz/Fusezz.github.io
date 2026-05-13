@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: SCH.png
-    content: about_einstein.md
+    content: Interns.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Phoenix Navtech Interns Class 01 </p>
