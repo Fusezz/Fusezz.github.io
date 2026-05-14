@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Mentors
+title: mentors
 description: The people who have helped guide my journey
 nav: true
 nav_order: 7
