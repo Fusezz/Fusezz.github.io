@@ -2,7 +2,7 @@
 layout: page
 title: Asuka Bot
 description: My Personal AI Assistant 
-img: /assets/cherry.jpg
+img: /assets/img/cherry.jpg
 importance: 1
 category: work
 related_publications: true
