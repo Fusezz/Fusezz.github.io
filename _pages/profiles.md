@@ -18,7 +18,7 @@ profiles:
       <p>Starcraft Headquarters, FL</p>
   - align: left
     image: MrD.jpg
-    content: about_einstein.md
+    content: MrD.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Last day of Highschool</p>
