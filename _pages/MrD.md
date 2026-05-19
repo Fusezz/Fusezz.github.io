@@ -1,0 +1,5 @@
+is the teacher who supported me the most throughout high school. From the very first day of my freshman year to my final day as a senior, he consistently encouraged and guided me every step of the way. Whether he was offering thoughtful advice on my personal projects, pushing me to challenge myself academically, or bringing real engineers into the classroom to share their experiences, he always went above and beyond to help his students succeed.
+
+What made Mr. Douglass stand out was not just his knowledge, but the genuine care he showed for my growth and future. He believed in my abilities even during times when I doubted myself, and his encouragement gave me the confidence to pursue my goals with determination. Through his mentorship, I gained not only technical knowledge, but also a stronger sense of discipline, curiosity, and ambition.
+
+I can confidently say that without Mr. Douglass’s guidance and support, I would not be where I am today. The impact he had on my education and personal development will stay with me for the rest of my life.
