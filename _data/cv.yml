@@ -15,82 +15,82 @@ cv:
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street:
+    city: Saint Cloud
+    region: Florida
+    postalCode:
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
+      - institution: Harmony High School
+        location: Saint Cloud, Florida
         url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        area: 
+        studyType: Highschool Dipoma
+        start_date: 2022
+        end_date: 2026
         score: ""
-        courses: "Theory of Relativity"
+        courses: ""
         highlights:
-          - Description 1.
-          - Description 2.
+          - Cadet of the year 2022
+          - Engineering Highlight
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      #- institution: Eidgenössische Technische Hochschule
+        #location: Zurich, Switzerland
+        #area: Physics
+        #studyType: Federal teaching diploma
+        #start_date: 1896
+        #end_date: 1900
+        #highlights:
+          - #Description 1.
+          - #Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Phoenix Navtech
+        position: Intern
+        location: Saint Cloud, FL
+        start_date: 2025
+        end_date: Ongoing
+        summary: At my internship, I work with aviation communication and navigation systems that help keep airports and aircraft operating safely and efficiently. I assist with systems such as ILS (Instrument Landing Systems), AWOS (Automated Weather Observing Systems), aviation radios, and voice communication switches. My responsibilities include tuning and testing radio equipment, setting up and configuring voice switch systems, applying communication positions, and helping maintain the reliability of critical airfield infrastructure used by pilots and air traffic personnel.
         highlights:
-          - Relativity
-          - Description 2.
+          - General Radiotelephone Operator License
+          - Hands-on experience supporting critical aviation communication and navigation systems
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      #- company: California Institute of Technology
+        #position: Visiting Professor
+        #location: Pasadena, California, US
+        #start_date: 1933
+        #end_date: 1933
+        #highlights:
+          - #Description 1.
+          - #Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      #- company: Kaiser Wilhelm Institute for Physics
+        #position: Director
+        #location: Berlin, Germany
+        #start_date: 1917
+        #end_date: 1933
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      #- company: Karl-Ferdinand University
+        #position: Professor of Theoretical Physics
+        #location: Prague, Czechoslovakia
+        #start_date: 1911
+        #end_date: 1917
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - #company: University of Zurich
+        #position: Associate Professor of Theoretical Physics
+        #location: Zurich, Switzerland
+        #start_date: 1909
+        #end_date: 1911
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Osceola Amateur Radio Emergency Service
+        position: Radio Operator
+        location: Emergency Operations Center, Kissimmee
+        start_date: 2026
+        end_date: Ongoing
+        summary: 
         highlights:
           - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
           - "Men of the year 2014 by Time magazine"
@@ -155,32 +155,32 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: General Radiotelephone Operator License
+        date: 2025-07-07
+        issuer: Federal Communications Commission
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Autodesk Inventor
+        date: 2023-01-01
+        issuer: Harmony High School
         icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: Low Voltage Wiring
+        date: 2025-12-20
+        issuer: Phoenix Navtech
         icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
+      - name: ASUKA
         summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
         highlights:
           - Quantum Teleportation
           - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+        start_date: 2025
+        end_date: Ongoing
 
     References:
-      - name: Professor John Doe
+      - name: Roger Patterson
         icon: fa-solid fa-laptop
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
